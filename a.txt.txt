@@ -1,3 +1,4 @@
 Name:mohammad kazimuddin
 fathers name : mohammad kaleemuddin
 mothers name : mohammad shabana sulthana
+specialization : data science
